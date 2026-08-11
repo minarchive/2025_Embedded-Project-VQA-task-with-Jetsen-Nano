@@ -1,6 +1,8 @@
 # Embedded-Project-VQA-task-with-Jetsen-Nano
 Embedded Project class of 2025 : Lightweight Real-Time VQA on Jetson Nano
 
+<img width="938" height="736" alt="스크린샷 2026-08-11 123416" src="https://github.com/user-attachments/assets/8ba00596-24ae-44c0-a675-d9997feea747" />
+
 ---
 
 # Overview
